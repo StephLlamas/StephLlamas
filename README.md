@@ -1,12 +1,13 @@
 <h2 align="center">Hi! My name is Steph and I'm a Software Developer from Mexico.</h2>
 
 ###
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StephLlamas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<img align="right" height="225" src="https://i.postimg.cc/7LS7zDM0/Profile.gif"  />
 
 ###
-<img align="right" height="225" src="https://i.postimg.cc/7LS7zDM0/Profile.gif"  />
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StephLlamas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="185" alt="languages graph"  />
+</div>
 
 ###
 
